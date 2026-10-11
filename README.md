@@ -59,7 +59,7 @@ a new menu for **Call of Duty: Modern Warfare Multiplayer Mod Menu** for **Priva
 - ***Settings & Forge***
 
 - ***Patches Menu***
-  - Ai Zombies Extreme
+  - Ai Zombies
 
 - ***Players***
   - ALL Players
@@ -80,7 +80,7 @@ Drag and drop the `MAG_MENU_MW` files into your **Mw mods folder**.
 
 ### Step 3
 
-Launch MW2 go in mods option, enable MAG MENU MW and start a **Private Match** to use the menu.
+Launch MW go in mods option, enable MAG MENU MW and start a **Private Match** to use the menu.
 
 ---
 
