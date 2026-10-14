@@ -19,7 +19,6 @@ a new menu for **Call of Duty: Modern Warfare Multiplayer Mod Menu** for **Priva
   - invisible
 
 - ***Account Options***
-  - Modded Accolades stats (10k to 1b)
   - Modded class names options
     - Color class names
     - Modded class names (keybind square etc)
