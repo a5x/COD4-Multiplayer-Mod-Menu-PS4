@@ -67,7 +67,7 @@ a new menu for **Call of Duty: Modern Warfare Multiplayer Mod Menu** for **Priva
 
 ---
 
-# Installation
+# Installation for PS4
 
 ### Step 1
 
@@ -85,9 +85,9 @@ Launch MW go in mods option, enable MAG MENU MW and start a **Private Match** to
 
 # Credits & Disclaimer
 
-We are **not the original developers** of this menu.
+We are **the original developers** of this menu.
 
-We only **ported the menu to PS4 and edited/customized it** for our own project.
+We only **menu works on PS4 and xbox 360**
 
 All original credits belong to the original developers of the menu.
 
