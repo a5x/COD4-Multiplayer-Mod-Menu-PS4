@@ -58,7 +58,7 @@ a new menu for **Call of Duty: Modern Warfare Multiplayer Mod Menu** for **Priva
 
 - ***Settings & Forge***
 
-- ***Patches Menu***
+- ***GameMode***
   - Ai Zombies
 
 - ***Players***
